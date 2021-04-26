@@ -25,7 +25,40 @@ and also you can put a limitation on the how much a box can expand or shrink{
 the same goes for the height of the box too and lastly there is every box have
 1.border 
 2.margin
-3.padding
+3.padding***
 
 # javascript read
-***USING QUOTES INSIDE A STRING***
+***java is a series of intructions that a computer can follow each intruction is called a statement***
+
+### Decisions and Loops :
+***if statements :checks a condition if the condition is true any statement in after it is executed
+and if it is false then it jumps to else if and execute it based on it being true ot false***
+
+***switch statements :it starts with a variable called switch value and each case indicates a possible value for the variable
+it goes like this :
+let myname
+switch(myname){
+case 1:
+myname='mohammad';
+break;
+case 2:
+myname='ahmad';}
+console.log();***
+
+### loops :
+***1.for loop :to run a code mulitiple times :
+2.example
+for(var i=0;i>=10;i++){
+console.log(i);}***
+
+***2.while loop:if you dont know how many times you need to run a code it keeps running until the condition is true
+while(i>10){}
+console.log();***
+
+***3.do while :it is similar to the while loop but the diffirence is that it will run the statements
+ inside the curly braces at least once even if the condition is met.
+ do { 
+msg += i + ' x 5 = ' + (i * 5) + '<-br I>' ;s 
+i++; 
+} while ( i < 1) ;
+console.log();***
