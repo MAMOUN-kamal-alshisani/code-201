@@ -13,24 +13,9 @@ variables and functions take on new names.***
 
 # the DOM : THE DOM TREE IS A MODEL OF A WEB PAGE :
 ***As a browser loads a web page, it creates a model of that page. 
-The model is called a DOM tree, and it is stored in the browsers' memory. 
+The model is called a DOM tree, and it is stored in the browsers memory. 
 It consists of four main types of nodes :
 BODY OF HTML PAGE***
-<html> 
-<body> 
-<di v id="page"> 
-<hl id="header">List</hl> 
-<h2>Buy groceries</h2> 
-<ul > 
-<li id="" class=""><em></em></li> 
-<li id="" class=""></l i> 
-<l i id="" class=""></l i > 
-<l i id=""></l i> 
-</ ul > 
-<script src="js/l i st.js "></scri pt> 
-</ div> 
-</ body> 
-</ html > 
 
 ***1.THE DOCUMENT NODE :
 When you access any element, attribute, or text 
