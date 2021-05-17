@@ -30,6 +30,4 @@ Set the fill style of the drawing object to the color red:***
 
 ***fillStyle = color:Sets the style used when filling shapes.***
 
-***strokeStyle = color:Sets the style for shapes' outlines.***
-
-  
+***strokeStyle = color:Sets the style for shapes' outline
